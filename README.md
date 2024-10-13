@@ -1,0 +1,1 @@
+This project appears to be a Next.js application designed for automated driving tests. Users can upload dash cam footage and driver footage, which the system then analyzes to provide insights and assessments on driving performance. The goal is to make driving tests cheaper and more consistent.
